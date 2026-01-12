@@ -1,5 +1,10 @@
 # Phishing Email Investigation Lab
 
+## Quick Links
+- Findings: `notes/findings.md`
+- Screenshots: `screenshots/`
+- Sample: `samples/` (public training data)
+
 ## Description
 
 This lab demonstrates the investigation of a real phishing email using raw header analysis, threat intelligence platforms, and attachment inspection to simulate a Tier-1 SOC phishing triage workflow.
@@ -69,6 +74,15 @@ Public phishing sample obtained from GitHub in `.eml` format.
 - Expand analysis with additional phishing samples
 
 ---
+
+## MITRE ATT&CK Mapping
+- T1566.001 — Phishing: Attachment
+- T1204 — User Execution
+- T1027 — Obfuscated / Malicious Content
+- T1556 — Credential Harvesting
+
+---
+
 
 ## Disclaimer
 
