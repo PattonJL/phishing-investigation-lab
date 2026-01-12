@@ -79,7 +79,6 @@ Public phishing sample obtained from GitHub in `.eml` format.
 - T1566.001 — Phishing: Attachment
 - T1204 — User Execution
 - T1027 — Obfuscated / Malicious Content
-- T1556 — Credential Harvesting
 
 ---
 
