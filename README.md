@@ -1,9 +1,9 @@
 # Phishing Email Investigation Lab
 
 ## Quick Links
-- Findings: `notes/findings.md`
-- Screenshots: `screenshots/`
-- Sample: `samples/` (public training data)
+- Findings: [`notes/findings.md`](notes/findings.md)
+- Screenshots: [`screenshots`](screenshots/)
+- Sample: [`samples`](samples/) (public training data)
 
 ## Description
 
